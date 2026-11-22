@@ -1,6 +1,0 @@
-This is the Most important Folder, this Will Handel all The Instance of Custom Backend Types
-
-soo like it would have a 2 handlers only for custom type
-
-Handler of Handler Function it will have all the. it will contain name Function Handler Address
-Handler of Handler Varaible like Global , Local, Something

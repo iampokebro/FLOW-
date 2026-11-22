@@ -1,9 +1,0 @@
-build/
-out/
-*.exe
-*.dll
-*.lib
-*.obj
-*.pdb
-*.ilk
-.vs/
